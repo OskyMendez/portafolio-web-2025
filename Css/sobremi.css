@@ -1,0 +1,13 @@
+/* Sección Sobre mí */
+.container.sobremi {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  padding: 5px;
+  margin: 3rem auto;
+  line-height: 1.5;
+  font-size: 0.85rem;
+  color: #eaf6ff;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+}

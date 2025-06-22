@@ -1,0 +1,34 @@
+.container.estudios {
+  width: 70%;
+  margin: 3rem auto;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  font-size: 0.95rem;
+  color: #eaf6ff;
+}
+
+.estudios-item {
+  margin-bottom: 2rem;
+  padding: 10px 20px;
+  border-left: 4px solid #b2ebf2;
+  background-color: rgba(255, 255, 255, 0.05);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 8px;
+}
+
+.estudios-item h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  color: #ffffff;
+}
+
+.estudios-item h3 span {
+  font-weight: normal;
+  font-size: 0.9rem;
+  color: #b2ebf2;
+}
+
+.estudios-item p {
+  margin: 5px 0 0;
+}
